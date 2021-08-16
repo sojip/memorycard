@@ -1,8 +1,18 @@
-.App {
+.App p {
+  padding: 25px;
   text-align: center;
 }
 
-.App-logo {
+.cardWrapper {
+  width: 100%;
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +45,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
