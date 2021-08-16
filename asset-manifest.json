@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/memorycard/static/css/main.c26c4755.chunk.css",
+    "main.js": "/memorycard/static/js/main.f94be420.chunk.js",
+    "main.js.map": "/memorycard/static/js/main.f94be420.chunk.js.map",
+    "runtime-main.js": "/memorycard/static/js/runtime-main.b1029d95.js",
+    "runtime-main.js.map": "/memorycard/static/js/runtime-main.b1029d95.js.map",
+    "static/js/2.4bcf63c9.chunk.js": "/memorycard/static/js/2.4bcf63c9.chunk.js",
+    "static/js/2.4bcf63c9.chunk.js.map": "/memorycard/static/js/2.4bcf63c9.chunk.js.map",
+    "index.html": "/memorycard/index.html",
+    "static/css/main.c26c4755.chunk.css.map": "/memorycard/static/css/main.c26c4755.chunk.css.map",
+    "static/js/2.4bcf63c9.chunk.js.LICENSE.txt": "/memorycard/static/js/2.4bcf63c9.chunk.js.LICENSE.txt",
+    "static/media/African American Female.png": "/memorycard/static/media/African American Female.7d2bbe53.png",
+    "static/media/African American Male.png": "/memorycard/static/media/African American Male.51f7a8fd.png",
+    "static/media/Andy.png": "/memorycard/static/media/Andy.465a5050.png",
+    "static/media/Asian Female.png": "/memorycard/static/media/Asian Female.80e9655c.png",
+    "static/media/Asian Male.png": "/memorycard/static/media/Asian Male.99eee896.png",
+    "static/media/Caucasian Female.png": "/memorycard/static/media/Caucasian Female.c8104d27.png",
+    "static/media/Caucasian Male.png": "/memorycard/static/media/Caucasian Male.10f0ed1c.png",
+    "static/media/Dione.png": "/memorycard/static/media/Dione.99b73057.png",
+    "static/media/Female Blonde.png": "/memorycard/static/media/Female Blonde.367a002e.png",
+    "static/media/Female Egyptian.png": "/memorycard/static/media/Female Egyptian.6945871e.png",
+    "static/media/Female French.png": "/memorycard/static/media/Female French.86eb0f9d.png",
+    "static/media/Female Iran.png": "/memorycard/static/media/Female Iran.a5fce423.png",
+    "static/media/Female Japanese.png": "/memorycard/static/media/Female Japanese.be1abbb6.png",
+    "static/media/Female Portrtait.png": "/memorycard/static/media/Female Portrtait.22511510.png",
+    "static/media/Female Spanish.png": "/memorycard/static/media/Female Spanish.c2c9f7d1.png",
+    "static/media/Girl.png": "/memorycard/static/media/Girl.a36aa493.png",
+    "static/media/Indian Female.png": "/memorycard/static/media/Indian Female.c5324fd8.png",
+    "static/media/Indian Male.png": "/memorycard/static/media/Indian Male.35d9499b.png",
+    "static/media/Israel Female.png": "/memorycard/static/media/Israel Female.de65cb9a.png",
+    "static/media/Israel Male.png": "/memorycard/static/media/Israel Male.a8946426.png",
+    "static/media/Liz.png": "/memorycard/static/media/Liz.6945afa0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1029d95.js",
+    "static/js/2.4bcf63c9.chunk.js",
+    "static/css/main.c26c4755.chunk.css",
+    "static/js/main.f94be420.chunk.js"
+  ]
+}
