@@ -40,6 +40,7 @@ function App() {
       key={card.id}
     />
   ));
+  //display cards in random order
   shuffle(domCards);
 
   useEffect(() => {
@@ -55,7 +56,6 @@ function App() {
   });
 
   function endGame() {
-    console.log("end");
     setScoreBoard({
       ...scoreBoard,
       score: 0,
@@ -64,7 +64,6 @@ function App() {
           ? scoreBoard.score
           : scoreBoard.bestScore,
     });
-
     setCards(
       cards.map((card) => {
         if (card.isClicked) card.isClicked = false;
@@ -88,7 +87,6 @@ function App() {
           return card;
         })
       );
-
       setScoreBoard({
         ...scoreBoard,
         score: scoreBoard.score + 1,
