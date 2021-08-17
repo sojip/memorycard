@@ -1,7 +1,12 @@
 import React from "react";
 import "../styles/Nav.css";
+import PropTypes from "prop-types";
 
-export default function Nav() {
+Nav.propTypes = {
+  scoreBoard: PropTypes.object,
+};
+
+export default function Nav(props) {
   return (
     <nav>
       <div className="logo">
@@ -13,10 +18,10 @@ export default function Nav() {
       </div>
       <div className="score">
         <div>
-          Score: <span id="score">0</span>
+          Score: <span id="score">{props.scoreBoard.score}</span>
         </div>
         <div>
-          Best score: <span id="best score">2</span>
+          Best score: <span id="best score">{props.scoreBoard.bestScore}</span>
         </div>
       </div>
     </nav>
