@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/memorycard/static/css/main.c26c4755.chunk.css",
-    "main.js": "/memorycard/static/js/main.f94be420.chunk.js",
-    "main.js.map": "/memorycard/static/js/main.f94be420.chunk.js.map",
+    "main.css": "/memorycard/static/css/main.27752da7.chunk.css",
+    "main.js": "/memorycard/static/js/main.708d27cd.chunk.js",
+    "main.js.map": "/memorycard/static/js/main.708d27cd.chunk.js.map",
     "runtime-main.js": "/memorycard/static/js/runtime-main.b1029d95.js",
     "runtime-main.js.map": "/memorycard/static/js/runtime-main.b1029d95.js.map",
-    "static/js/2.4bcf63c9.chunk.js": "/memorycard/static/js/2.4bcf63c9.chunk.js",
-    "static/js/2.4bcf63c9.chunk.js.map": "/memorycard/static/js/2.4bcf63c9.chunk.js.map",
+    "static/js/2.5d00cc30.chunk.js": "/memorycard/static/js/2.5d00cc30.chunk.js",
+    "static/js/2.5d00cc30.chunk.js.map": "/memorycard/static/js/2.5d00cc30.chunk.js.map",
     "index.html": "/memorycard/index.html",
-    "static/css/main.c26c4755.chunk.css.map": "/memorycard/static/css/main.c26c4755.chunk.css.map",
-    "static/js/2.4bcf63c9.chunk.js.LICENSE.txt": "/memorycard/static/js/2.4bcf63c9.chunk.js.LICENSE.txt",
+    "static/css/main.27752da7.chunk.css.map": "/memorycard/static/css/main.27752da7.chunk.css.map",
+    "static/js/2.5d00cc30.chunk.js.LICENSE.txt": "/memorycard/static/js/2.5d00cc30.chunk.js.LICENSE.txt",
     "static/media/African American Female.png": "/memorycard/static/media/African American Female.7d2bbe53.png",
     "static/media/African American Male.png": "/memorycard/static/media/African American Male.51f7a8fd.png",
     "static/media/Andy.png": "/memorycard/static/media/Andy.465a5050.png",
@@ -34,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b1029d95.js",
-    "static/js/2.4bcf63c9.chunk.js",
-    "static/css/main.c26c4755.chunk.css",
-    "static/js/main.f94be420.chunk.js"
+    "static/js/2.5d00cc30.chunk.js",
+    "static/css/main.27752da7.chunk.css",
+    "static/js/main.708d27cd.chunk.js"
   ]
 }
